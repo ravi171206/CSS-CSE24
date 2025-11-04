@@ -1,0 +1,27 @@
+p{
+color: black;
+background-color: bisque;
+text-align: center;
+font-size: 25px;
+padding: 20px;
+}
+.jk{
+    color: brown;
+    background-color: cornsilk;
+}
+body{
+    background-color: rgb(233, 179, 208);
+}
+#m1{
+    color: lightpink;
+}
+h1{
+    text-align: center;
+}
+div{
+    height: 300px;
+    width: 250px;
+    background-color: pink;
+    border: 3px solid black;
+    margin: 50px;
+}
