@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box1{
+    border: 5px solid black;
+    height: 600px;
+    width: 800px;
+    font-size: 1.8rem;
+    margin: 60px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: greenyellow;
+    height: 400px;
+    width: 600px;
+    border: 28px solid blue;
+    margin: 50px;
+}
